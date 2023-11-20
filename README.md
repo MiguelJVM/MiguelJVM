@@ -1,4 +1,4 @@
-### <h1> <a href="https://placehold.co/15x15/c5f015/c5f015.png">What fool gives up his life knowing he'll die tomorrow anyway?</a></h1>
+### <h1 style="color: purple">What fool gives up his life knowing he'll die tomorrow anyway?</h1>
 
 
 <!--
