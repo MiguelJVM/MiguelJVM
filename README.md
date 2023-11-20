@@ -1,4 +1,4 @@
-### <h1> <a href="https://placehold.co/15x15/1589F0/1589F0.png"> text-align:centre > What fool gives up his life knowing he'll die tomorrow?</a></h1>
+### <h1> <a href="https://placehold.co/15x15/1589F0/1589F0.png">       What fool gives up his life knowing he'll die tomorrow?</a></h1>
 
 <!--
 **MiguelJVM/MiguelJVM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
