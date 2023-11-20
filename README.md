@@ -1,4 +1,4 @@
-###What foold gives up his life knowing he'll die tomorrow?
+### What fool gives up his life knowing he'll die tomorrow?
 
 <!--
 **MiguelJVM/MiguelJVM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
